@@ -1,4 +1,4 @@
-package me.z4hy.dev
+package me.z4hy.dev.moifuw
 
 sealed interface Position
 
