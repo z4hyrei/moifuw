@@ -6,5 +6,5 @@
 
 *.sh text eol=lf
 
-*.bat text eol=crlf
-*.cmd text eol=crlf
+*.[Bb][Aa][Tt] text eol=crlf
+*.[Cc][Mm][Dd] text eol=crlf
